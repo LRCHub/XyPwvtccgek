@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "RED OCEAN",
+  "base_artist": "kZm",
+  "createdAt": "2025-12-01T05:14:46.653011Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RED OCEAN",
+      "artist": "KZM",
+      "has_synced": false,
+      "path": "select/01_RED_OCEAN_KZM.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RED OCEAN",
+      "artist": "kZm",
+      "has_synced": false,
+      "path": "select/pl_01_RED_OCEAN_kZm.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "RED OCEAN",
+      "artist": "kZm",
+      "has_synced": false,
+      "path": "select/pl_02_RED_OCEAN_kZm.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Red Ocean",
+      "artist": "kZm",
+      "has_synced": false,
+      "path": "select/pl_03_Red_Ocean_kZm.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Red Ocean Swim (feat. NimaiCalcio)",
+      "artist": "kZm",
+      "has_synced": false,
+      "path": "select/pl_04_Red_Ocean_Swim_(feat._NimaiCalcio)_kZm.txt"
+    }
+  ]
+}
